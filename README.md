@@ -60,5 +60,6 @@ deactivate
 ```
 
 # Author
-Nakul Bajaj
-Email: bajaj.nakul@gmail.com
+Nakul Bajaj  
+Email: bajaj.nakul@gmail.com  
+
