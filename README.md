@@ -41,9 +41,19 @@ cd udacity-intro-ml
 pip3 install virtualenv 
 python3 -m venv /sklearnModels
 source /sklearnModels/bin/activate
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
+For NLTK 
+```bash
+python3
+```
+```python 
+
+>>> import nltk
+>>> nltk.download()
+
+```
 # Shut the environment
 ```bash
 deactivate
